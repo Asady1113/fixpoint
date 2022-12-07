@@ -16,6 +16,7 @@
 		94C3C99A293FAB7D004225EB /* fixpoint_testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C3C999293FAB7D004225EB /* fixpoint_testTests.swift */; };
 		94C3C9A4293FAB7D004225EB /* fixpoint_testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C3C9A3293FAB7D004225EB /* fixpoint_testUITests.swift */; };
 		94C3C9A6293FAB7D004225EB /* fixpoint_testUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C3C9A5293FAB7D004225EB /* fixpoint_testUITestsLaunchTests.swift */; };
+		94C3C9B3293FAE40004225EB /* log.csv in Resources */ = {isa = PBXBuildFile; fileRef = 94C3C9B2293FAE40004225EB /* log.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		94C3C99F293FAB7D004225EB /* fixpoint_testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = fixpoint_testUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		94C3C9A3293FAB7D004225EB /* fixpoint_testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fixpoint_testUITests.swift; sourceTree = "<group>"; };
 		94C3C9A5293FAB7D004225EB /* fixpoint_testUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fixpoint_testUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		94C3C9B2293FAE40004225EB /* log.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = log.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				94C3C982293FAB7A004225EB /* AppDelegate.swift */,
 				94C3C984293FAB7A004225EB /* SceneDelegate.swift */,
 				94C3C986293FAB7A004225EB /* ViewController.swift */,
+				94C3C9B2293FAE40004225EB /* log.csv */,
 				94C3C988293FAB7A004225EB /* Main.storyboard */,
 				94C3C98B293FAB7C004225EB /* Assets.xcassets */,
 				94C3C98D293FAB7C004225EB /* LaunchScreen.storyboard */,
@@ -234,6 +237,7 @@
 				94C3C98F293FAB7C004225EB /* LaunchScreen.storyboard in Resources */,
 				94C3C98C293FAB7C004225EB /* Assets.xcassets in Resources */,
 				94C3C98A293FAB7A004225EB /* Main.storyboard in Resources */,
+				94C3C9B3293FAE40004225EB /* log.csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
